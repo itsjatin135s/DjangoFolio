@@ -1,6 +1,5 @@
 # DjangoFolio
 
-[![Build Status](https://travis-ci.com/nesdis/djongo.svg?branch=master)](https://travis-ci.com/nesdis/djongo)
 <a href="https://badge.fury.io/py/djongo"><img src="https://badge.fury.io/py/djongo.svg" alt="PyPI version" height="18"></a>
 
 Use MongoDB as a backend database for your Django project, without changing the Django ORM. Use the Django Admin GUI to add and modify documents in MongoDB. 

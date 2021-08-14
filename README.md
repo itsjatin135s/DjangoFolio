@@ -51,7 +51,6 @@ I am inundated daily with your love, appreciation, queries and feature requests 
  
  If you think djongo is useful, **please share it** with the world! Your endorsements and online reviews will help get more support for this project.
   
- Take a look at the [Enhancements project](https://github.com/nesdis/djongo/projects/1) that contains a list of features that must be implemented in future versions of Djongo. You can contribute to the source code or the documentation by creating a simple pull request! You may want to refer to the design documentation to get an idea on how [Django MongoDB connector](https://nesdis.github.io/djongo/django-mongodb-connector-design-document/) is implemented.
  
  Add a star, show some love :) 
 

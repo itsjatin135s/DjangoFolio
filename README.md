@@ -1,5 +1,4 @@
 # DjangoFolio
-<h1>djongo</h1>
 
 [![Build Status](https://travis-ci.com/nesdis/djongo.svg?branch=master)](https://travis-ci.com/nesdis/djongo)
 <a href="https://badge.fury.io/py/djongo"><img src="https://badge.fury.io/py/djongo.svg" alt="PyPI version" height="18"></a>
